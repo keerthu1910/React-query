@@ -1,0 +1,22 @@
+.search-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    label,input{
+        margin: 5px;
+    }
+}
+
+.searcheddata-container{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.pagination-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    button{
+        margin: 3px;
+    }
+}
